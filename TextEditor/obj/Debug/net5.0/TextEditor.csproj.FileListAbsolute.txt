@@ -1,0 +1,16 @@
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.exe
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\bin\Debug\net5.0\ref\TextEditor.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.csproj.AssemblyReference.cache
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+C:\Users\eduardo.guimaraes\Desktop\Projects\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache
